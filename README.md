@@ -30,7 +30,7 @@ Currently, I am building and documenting projects around:
 
 ### Disk Recovery Image
 
-A digital forensics project focused on recovering and analyzing disk image data.
+A 3rd year digital forensics project focused on recovering and analyzing disk image data.
 
 **Focus areas:**
 - Disk image recovery workflow
@@ -40,7 +40,7 @@ A digital forensics project focused on recovering and analyzing disk image data.
 
 ### Cyber Bullying Detection and Mitigation on Social Media
 
-An NLP and machine learning project for identifying harmful social media text and supporting mitigation workflows.
+A 3rd year NLP and machine learning project for identifying harmful social media text and supporting mitigation workflows.
 
 **Focus areas:**
 - Text preprocessing
