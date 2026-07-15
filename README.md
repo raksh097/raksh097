@@ -58,6 +58,22 @@ Repository: <https://github.com/raksh097/cyber-bullying-detection-nlp-ml>
 
 ---
 
+## Resume Project Highlights
+
+### Disk Recovery Image
+
+Digital forensics project focused on scanning disk images, detecting file system signatures, carving recoverable files, and documenting the recovery workflow.
+
+**Key skills:** Python, file carving, disk image analysis, evidence documentation
+
+### Cyber Bullying Detection and Mitigation
+
+3rd year mini project completed with my project partner using NLP and machine learning to classify harmful social media text and suggest mitigation actions.
+
+**Key skills:** Python, NLP, TF-IDF, Logistic Regression, text preprocessing, online safety
+
+---
+
 ## Tech and Tools
 
 **Cybersecurity:** Digital Forensics, Threat Awareness, Evidence Documentation  
