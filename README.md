@@ -40,7 +40,7 @@ A 3rd year digital forensics project focused on recovering and analyzing disk im
 
 ### Cyber Bullying Detection and Mitigation on Social Media
 
-A 3rd year NLP and machine learning project for identifying harmful social media text and supporting mitigation workflows.
+A 3rd year mini project completed with my project partner, using NLP and machine learning to identify harmful social media text and support mitigation workflows.
 
 **Focus areas:**
 - Text preprocessing
