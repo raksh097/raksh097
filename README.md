@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Rakshitha N P</h1>
 
 <p align="center">
-  <b>3rd Year Cybersecurity Student</b><br>
+  <b>4th Year Cybersecurity Student</b><br>
   Digital Forensics | NLP and Machine Learning | Web Projects | GitHub Learning
 </p>
 
