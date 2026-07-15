@@ -9,6 +9,10 @@
   <a href="https://raksh097.github.io/raksh097-portfolio/">Portfolio Website</a>
   ·
   <a href="https://github.com/raksh097/raksh097-portfolio">Portfolio Repository</a>
+  ·
+  <a href="https://github.com/raksh097/disk-recovery-image">Disk Recovery Project</a>
+  ·
+  <a href="https://github.com/raksh097/cyber-bullying-detection-nlp-ml">Cyber Bullying Detection Project</a>
 </p>
 
 ---
@@ -32,6 +36,8 @@ Currently, I am building and documenting projects around:
 
 A 3rd year digital forensics project focused on recovering and analyzing disk image data.
 
+Repository: <https://github.com/raksh097/disk-recovery-image>
+
 **Focus areas:**
 - Disk image recovery workflow
 - File and evidence handling
@@ -41,6 +47,8 @@ A 3rd year digital forensics project focused on recovering and analyzing disk im
 ### Cyber Bullying Detection and Mitigation on Social Media
 
 A 3rd year mini project completed with my project partner, using NLP and machine learning to identify harmful social media text and support mitigation workflows.
+
+Repository: <https://github.com/raksh097/cyber-bullying-detection-nlp-ml>
 
 **Focus areas:**
 - Text preprocessing
