@@ -59,24 +59,20 @@ An NLP and machine learning project for identifying harmful social media text an
 
 ---
 
+## Languages
+
+- English
+- Hindi
+- Kannada
+
+---
+
 ## Current Goals
 
 - Build stronger cybersecurity projects
 - Improve my GitHub profile with real work
 - Add better READMEs, screenshots, and project explanations
 - Learn more about forensics, ML, and secure systems
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raksh097&show_icons=true&theme=tokyonight" alt="Rakshitha's GitHub stats">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raksh097&layout=compact&theme=tokyonight" alt="Top languages">
-</p>
 
 ---
 
